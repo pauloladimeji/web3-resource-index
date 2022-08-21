@@ -47,3 +47,11 @@ Web3 Resource Index is my attempt at curating and organizing these resources in 
 To make this the go-to resource index for aspiring and current Web3 practitioners, we have to make it as seamless as possible to add resources to the index. As this is a fairly new project, I am still figuring out the best ways to go about this, and will update this README as soon as we come up with a framework. Suggestions are welcome regardless.
 
 ## Accessing the Index
+
+## Roadmap
+
+In order to launch this as quickly as possible, the initial version of the interactive index will be open-sourced via GitHub and hosted on a WordPress website. However, I'd like to show the possibilities and benefits of using (the Web3 stack)[https://edgeandnode.com/blog/defining-the-web3-stack/] to build usable, practical web apps. Hence, the intended roadmap is as follows:
+
+1. Host the open-source index on (Radicle)[https://radicle.xyz]
+2. Host all indexed resources (including details and metadata) on (IPFS)[https://ipfs.tech/]
+3. Query indexed resources via (The Graph Protocol)[http://thegraph.com/en/]
