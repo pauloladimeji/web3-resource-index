@@ -4,7 +4,7 @@ Community-driven index of Web3 resources, for technical and non-technical folks 
 
 ## Inspiration
 
-A lot of Web3 resources are scattered all over the Internet. However, they are hard to find or reference. For a beginner (or expert), it can be hard to navigate all the resources out there. Example: If I'm a UX designer new to Web3, what are the best resources for me to explore? Same goes for Product Managers, Developers and other tech practitioners. At the same time, as a mid-level developer working on a project, how do I find the most suitable open-source project or product for my use case? The list goes on and on...
+A lot of Web3 resources are scattered all over the Internet. However, they are hard to find or reference. For a beginner (or expert), it can be hard to navigate all the resources out there. Example: If I'm a UX designer new to Web3, what are the best resources for me to explore? At the same time, as a mid-level developer working on a defi project, how do I find the most suitable open-source project or product for my use case? Same goes for Product Managers, marketers and other tech practitioners. The list goes on and on...
 
 Web3 Resource Index is my attempt at curating and organizing these resources in an interactive format, to make them easier to find according to each person's preference. On Web3ResourceIndex.com, you can find resources according to different criteria. At this time, some of the search criteria include:
 
@@ -34,6 +34,7 @@ Web3 Resource Index is my attempt at curating and organizing these resources in 
 - Founder
 - Product Designer
 - Technical Writer
+- Digital Marketer
 
 ### Web3 Experience Level
 
