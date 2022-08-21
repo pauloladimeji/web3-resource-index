@@ -50,8 +50,8 @@ To make this the go-to resource index for aspiring and current Web3 practitioner
 
 ## Roadmap
 
-In order to launch this as quickly as possible, the initial version of the interactive index will be open-sourced via GitHub and hosted on a WordPress website. However, I'd like to show the possibilities and benefits of using (the Web3 stack)[https://edgeandnode.com/blog/defining-the-web3-stack/] to build usable, practical web apps. Hence, the intended roadmap is as follows:
+In order to launch this as quickly as possible, the initial version of the interactive index will be open-sourced via GitHub and hosted on a WordPress website. However, I'd like to show the possibilities and benefits of using [the Web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack/) to build usable, practical web apps. Hence, the intended roadmap is as follows:
 
-1. Host the open-source index on (Radicle)[https://radicle.xyz]
-2. Host all indexed resources (including details and metadata) on (IPFS)[https://ipfs.tech/]
-3. Query indexed resources via (The Graph Protocol)[http://thegraph.com/en/]
+1. Host the open-source index on [Radicle](https://radicle.xyz)
+2. Host all indexed resources (including details and metadata) on [IPFS](https://ipfs.tech/)
+3. Query indexed resources via [The Graph Protocol](http://thegraph.com/en/)
